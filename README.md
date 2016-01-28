@@ -12,3 +12,5 @@
 ##### summing large matrices: 
 * [Stackoverflow reference.](http://stackoverflow.com/questions/21921422/row-sum-for-large-term-document-matrix-simple-triplet-matrix-tm-package)
 * Uses [R SLAM package](https://cran.r-project.org/web/packages/slam/index.html)
+
+##### RODBC_example.R:  sample code for using RODBC package to download data from database.
